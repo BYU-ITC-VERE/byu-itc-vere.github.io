@@ -1,6 +1,6 @@
 ---
 title: Welcome
 layout: redirect
-redirect: https://byu-itc-vere.github.io/welcome/S26
+redirect: https://byu-itc-vere.github.io/welcome/S27
 ---
 Redirect
